@@ -35,6 +35,10 @@ nav button:hover{
     background-color: #a85b2a;
 }
 
+#menu{
+    text-decoration: underline;
+}
+
 #main-box{
     background-color: #fff8e1;
     border: 3px solid black;
@@ -59,9 +63,14 @@ nav button:hover{
     font-size: 18px;
 }
 
-#pancake{
+#pancake, #egg{
     width: 300px;
     border-radius: 10px;
     margin-top: 10px;
 }
 
+#funnypancake{
+    width: 600px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
